@@ -1,0 +1,10 @@
+{
+  "name": "poll",
+  "version": "1.0.0",
+  "description": "poll maker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSamsung/poll.git"
+  },
+  "author": "Samy35,Pythack",
+}
