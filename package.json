@@ -6,5 +6,8 @@
     "type": "git",
     "url": "git+https://github.com/SamSamsung/poll.git"
   },
+  "scripts": {
+              "start": "php index.php"
+           },
   "author": "Samy35,Pythack"
 }
